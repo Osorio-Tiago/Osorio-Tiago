@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">I'm a fourth-year student pursuing a degree in System's Engineering.</h3>
+<h3 align="center">I'm a proactive systems engineer who likes to offer solutions to problems and has a passion for optimizing algorithms in search of efficiency. I have experience leading teams of development and contributing significantly to system architecture design and the final solution. Currently, I'm working as a mobile application developer, specializing in Java and Kotlin, with a focus on innovating in electronic payments using NFC technology on mobile devices. In addition to my technical skills, I specialize in optimizing performance to ensure seamless user experiences and secure transactions. My commitment to staying abreast of industry advancements and continuously improving my skills drives my passion for delivering increasingly innovative and effective solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
